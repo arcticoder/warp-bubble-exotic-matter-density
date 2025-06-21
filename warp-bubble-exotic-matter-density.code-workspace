@@ -1,8 +1,15 @@
-{
-  "folders": [
+{  "folders": [
     {
       "path": ".",
       "name": "warp-bubble-exotic-matter-density"
+    },
+    {
+      "path": "../warp-bubble-einstein-equations",
+      "name": "warp-bubble-einstein-equations"
+    },
+    {
+      "path": "../warp-bubble-parameter-constraints",
+      "name": "warp-bubble-parameter-constraints"
     }
   ],
   "extensions": {
