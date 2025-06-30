@@ -176,7 +176,7 @@ The analysis reveals:
 
 ### 1. LaTeX Document Structure
 
-```latex
+```math
 \section{Exotic Matter Energy Density}
 
 The energy density component of the stress-energy tensor:
