@@ -23,7 +23,7 @@ This framework now integrates with the **lqg-cosmological-constant-predictor** t
 3. **Cross-Scale Consistency**  
    - Validated across 61 orders of magnitude (Planck to cosmological scales)
    - Perfect mathematical consistency between quantum gravity and warp drive requirements
-   - Exact backreaction coefficient β = 1.9443254780147017 integration
+   - approximate backreaction coefficient β = 1.9443254780147017 integration
 
 ### **Engineering Applications**
 
@@ -82,3 +82,10 @@ pdflatex exotic_matter_density.tex
 ```
 
 The resulting PDF will contain the simplified expression for $\widetilde T^{00}(r,t)$ and the precise condition under which it becomes negative.
+
+
+## Scope, Validation & Limitations
+
+- Scope: The materials and numeric outputs in this repository are research-stage examples and depend on implementation choices, parameter settings, and numerical tolerances.
+- Validation: Reproducibility artifacts (scripts, raw outputs, seeds, and environment details) are provided in `docs/` or `examples/` where available; reproduce analyses with parameter sweeps and independent environments to assess robustness.
+- Limitations: Results are sensitive to modeling choices and discretization. Independent verification, sensitivity analyses, and peer review are recommended before using these results for engineering or policy decisions.
